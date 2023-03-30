@@ -1,0 +1,4 @@
+// 可以將新的js寫法轉換成以前的寫法
+{
+  "presets": ["@babel/preset-env"]
+}
